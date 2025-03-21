@@ -20,3 +20,4 @@ This project is a responsive pricing page that showcases three subscription tier
 
 ### 🌐 Live Demo:
 You can try out the **Pricing Project** here:  
+[Pricing Panel Demo](https://pricing-paneldemo.netlify.app/)
